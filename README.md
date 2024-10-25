@@ -1,3 +1,3 @@
 # 01-css-methods
 
-methods_for_adding_css
+Odin Project Foundations - Methods for Adding CSS exercise
